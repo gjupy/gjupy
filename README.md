@@ -2,11 +2,11 @@
   <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="300"/>
 </div>
 
-Hi there :)
+Hi :)
 ---
 
 ### :man_technologist: About Me:
-- :seedling: I'm currently studying @42School in Heilbronn, Germany. 42 is an intensive educational institute with a peer-to-peer learning system that provides  fundamentals and advanced CS paradigms in C, C++ and Bash.
+- :seedling: I'm a programmer since 2020. The first programming language I learned was C. I'm currently studying @42School in Heilbronn, Germany. Here I'm posting some of the projects I do during my curriculum.
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Giuliano-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/giuliano-jupy-4311347a/)
 ---
@@ -14,6 +14,9 @@ Hi there :)
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width="40" height="40"/&nbsp>
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40"/&nbsp>
   </a>
 </div>
