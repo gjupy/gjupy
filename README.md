@@ -13,5 +13,7 @@ Hi there :)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"> </a>
+  </img>
 </div>
