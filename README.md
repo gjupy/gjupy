@@ -7,6 +7,7 @@ Hi :)
 
 ### :man_technologist: About Me:
 - :seedling: I'm a programmer since 2021. The first programming language I learned was C. I'm currently studying @42School in Heilbronn, Germany. Here I'm posting some of the projects I do during my curriculum.
+- [![42 Profile Card](https://1337-readme-xi.vercel.app/api/profile?cursus=42&dark=true&email=hide&leet_logo=hide&login=gjupy)](https://github.com/mohouyizme/1337-readme)
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Giuliano-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/giuliano-jupy-4311347a/)
 ---
