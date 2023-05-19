@@ -13,11 +13,11 @@ Hi :)
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width="40" height="40"/&nbsp>
   </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40"/&nbsp>
-  </a>
   <a href="https://de.wikipedia.org/wiki/C%2B%2B">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/&nbsp>
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40"/&nbsp>
   </a>
 </div>
 
